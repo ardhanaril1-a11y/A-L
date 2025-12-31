@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ardhanari L | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ardhanari L</h1>
+        <p>Web Developer | Designer | Tech Enthusiast</p>
+    </header>
+
+    <section class="about">
+        <h2>About Me</h2>
+        <p>Hello! I am Ardhanari, a passionate web developer who loves creating beautiful and functional websites. I enjoy learning new technologies and improving my coding skills.</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5 & CSS3</li>
+            <li>JavaScript</li>
+            <li>Responsive Design</li>
+            <li>Git & GitHub</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Phone: +91 12345 67890</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Ardhanari L. All rights reserved.</p>
+    </footer>
+</body>
+</html>
